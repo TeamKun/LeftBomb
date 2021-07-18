@@ -1,0 +1,7 @@
+name: LeftBomb
+version: ${project.version}
+main: net.kunmc.lab.leftbomb.Leftbomb
+api-version: 1.16
+authors: [ Bun133 ]
+commands:
+  lb:
